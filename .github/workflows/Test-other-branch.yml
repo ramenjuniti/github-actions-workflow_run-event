@@ -1,5 +1,5 @@
 ---
-name: Test
+name: Test other branch
 
 on:
   workflow_run:
