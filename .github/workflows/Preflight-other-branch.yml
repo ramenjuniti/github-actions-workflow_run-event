@@ -1,8 +1,9 @@
 ---
-name: Preflight
+name: Preflight other branch
 
 on:
   - push
+  - pull_request
 
 jobs:
   preflight-job:
